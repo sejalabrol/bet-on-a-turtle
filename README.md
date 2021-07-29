@@ -1,7 +1,7 @@
 
 # Bet on a Turtle
 
-Bet on Racing Turtles! A simple demonstration of [*Python Turtle Graphics*](https://docs.python.org/3/library/turtle.html)
+Bet on Racing Turtles🐢! A simple demonstration of [*Python Turtle Graphics*](https://docs.python.org/3/library/turtle.html)
 
 ## Screenshots
 
